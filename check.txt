@@ -1,2 +1,3 @@
 this is a dummy file to learn git and github
 this is a dummy file to learn creating files from git command
+inserting new line
